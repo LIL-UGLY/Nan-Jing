@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>khb的瓦</title>
+</head>
+    <body>
+       <div style="background-color:pink">
+          <h1>khb的瓦</h1>
+          <h2>嘿嘿</h2>
+          <h6>呼呼</h6>
+       </div>
+       <p>这<span style="background-color: aqua;">是</span>一个<br><b>文</b>本段落</p>
+
+        <img src="https://t7.baidu.com/it/u=1415984692,3889465312&fm=193&f=GIF" width="500px">
+        <a href="https://www.baidu.com">百度链接</a>
+
+    <ol>
+        <li>我是猎人</li>
+        <li>离散</li>
+    </ol>
+    <ul>
+        <li>你已被剥夺力量</li>
+        <li>你们走不了了</li>
+    </ul>
+    <table border="1" class="data-table">
+        <thead>
+            <tr>
+                <td>烟位</td>
+                <td>信息</td>
+                <td>哨位</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>幽影</td>
+                <td>K/O</td>
+                <td>保安</td>
+
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>4</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>4</td>
+                <td>3</td>
+            </tr>
+        </tbody>
+    </table>
+    </body>
+</html>
